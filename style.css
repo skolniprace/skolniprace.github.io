@@ -92,9 +92,21 @@ h1 {
 }
 
 
-ul.obrazky{
-float: left;
-width:50%;}
+ul.1{
+list-style-type:none;
+
+}
+ul.2{
+list-style-type:none;
+
+}
+
+li.obrazky{
+float:left;
+    text-align:center;
+   list-style-type:none 
+	;
+}
 
 li.rom {
 list-style-type:upper-roman;
