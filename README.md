@@ -1,1 +1,0 @@
-# skolniprace.github.io
